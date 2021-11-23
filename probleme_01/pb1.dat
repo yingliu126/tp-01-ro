@@ -1,0 +1,17 @@
+data;
+
+set VOITURES :=
+1
+2;
+
+param surface :=
+1 10
+2 20;
+
+param heurestravail :=
+1 0.06
+2 0.05;
+
+param benefparvoiture :=
+1 10000
+2 9000;
